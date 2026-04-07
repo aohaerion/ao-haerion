@@ -3,7 +3,7 @@
 
 ## EN
 
-AO Haerion is an evolving project designed to turn complexity into clearer paths, readable decisions, and guided progress.
+AO Haerion is an evolving project focused on finding direction in complexity through clearer paths, readable decisions, and guided progress.
 
 The goal is not to build yet another generic chatbot interface, but to create a guided space where complexity can be collected, structured, and navigated with greater clarity.
 
@@ -20,7 +20,7 @@ This repository gathers the public foundation of AO Haerion: its identity, early
 
 ## IT
 
-AO Haerion è un progetto in evoluzione pensato per trasformare la complessità in percorsi più chiari, decisioni leggibili e avanzamento guidato.
+AO Haerion è un progetto in evoluzione orientato a trovare direzione nella complessità attraverso percorsi più chiari, decisioni leggibili e avanzamento guidato.
 
 L’obiettivo non è costruire l’ennesima interfaccia da chatbot generalista, ma creare uno spazio guidato in cui la complessità possa essere raccolta, ordinata e attraversata con maggiore chiarezza.
 
