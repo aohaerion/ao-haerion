@@ -1,41 +1,85 @@
 # AO Haerion
-### A road through chaos / Una strada nel caos
 
-## EN
+**AO Haerion** is an early public project about helping complex work stay understandable, traceable, and resumable.
 
-AO Haerion is an evolving project focused on finding direction in complexity through clearer paths, readable decisions, and guided progress.
+It starts from a simple problem:
 
-The goal is not to build yet another generic chatbot interface, but to create a guided space where complexity can be collected, structured, and navigated with greater clarity.
+> When work becomes complex, interrupted, or chaotic, people need a clear way to preserve context, decisions, evidence, and direction.
 
-The first four working directions of the project are:
+AO Haerion is not presented as a complete system.
+At this stage, it is a public foundation and documentation draft for a careful technical design process.
 
-- clarify a situation
-- make a decision
-- organize a goal
-- resume a path
+## Public identity
 
-This repository gathers the public foundation of AO Haerion: its identity, early design language, initial concepts, and the first elements of its evolving structure.
+AO Haerion is built around the idea:
 
----
+> **A road through chaos.**
 
-## IT
+The project begins with four practical directions:
 
-AO Haerion è un progetto in evoluzione orientato a trovare direzione nella complessità attraverso percorsi più chiari, decisioni leggibili e avanzamento guidato.
+1. **Clarify a situation**  
+   Make the current state easier to understand.
 
-L’obiettivo non è costruire l’ennesima interfaccia da chatbot generalista, ma creare uno spazio guidato in cui la complessità possa essere raccolta, ordinata e attraversata con maggiore chiarezza.
+2. **Make a decision**  
+   Separate options, assumptions, evidence, and chosen direction.
 
-Le prime quattro direzioni di lavoro del progetto sono:
+3. **Organize a goal**  
+   Turn an intention into a readable structure of steps and constraints.
 
-- chiarire una situazione
-- prendere una decisione
-- organizzare un obiettivo
-- riprendere un percorso
+4. **Resume a path**  
+   Re-enter interrupted work without losing context or inventing false continuity.
 
-Questo repository raccoglie la fondazione pubblica di AO Haerion: la sua identità, il linguaggio visivo iniziale, i primi concetti e gli elementi base della sua struttura in evoluzione.
+## Current public status
 
----
+Current status:
 
-## Status / Stato
+**AO HAERION PUBLIC FOUNDATION — PUBLIC DOCUMENTATION DRAFT — NON BASELINE**
 
-**AO Haerion is currently in its public foundation phase.**  
-**AO Haerion si trova attualmente nella sua fase di fondazione pubblica.**
+This repository is currently used to shape the first public documentation layer of AO Haerion.
+
+Nothing in this repository should be interpreted as:
+
+- a complete implementation;
+- a production-ready system;
+- a validated baseline;
+- a runtime architecture;
+- a claim that all future components already exist.
+
+## Current technical milestone
+
+The first proposed public technical milestone is:
+
+**M001 — Governed Memory Layer**
+
+M001 defines how AO Haerion preserves context, decisions, evidence, and direction across interrupted work.
+
+See:
+
+- [ROADMAP.md](ROADMAP.md)
+- [MILESTONES.md](MILESTONES.md)
+- [docs/m001-governed-memory-layer.md](docs/m001-governed-memory-layer.md)
+
+## Documentation
+
+Start here:
+
+- [Overview](docs/overview.md)
+- [Principles](docs/principles.md)
+- [Glossary](docs/glossary.md)
+
+## Development approach
+
+AO Haerion follows a restrained development approach:
+
+- explain before expanding;
+- document before claiming;
+- preserve traceability;
+- keep public material human-readable;
+- avoid overclaim;
+- grow through visible milestones.
+
+## Repository status
+
+This repository is a public documentation draft.
+
+No baseline is declared here.
