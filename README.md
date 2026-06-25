@@ -1,5 +1,9 @@
 # AO Haerion
 
+**A road through chaos.**
+Public documentation draft — non-baseline.
+
+
 **AO Haerion** is an early public project about helping complex work stay understandable, traceable, and resumable.
 
 It starts from a simple problem:
